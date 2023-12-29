@@ -2,12 +2,13 @@ body{
     background-color:dimgray;
 }
 .container{
-    padding:75px 30px;
+    padding:65px 30px;
 }
 
 .parent{
     position: relative;
-    padding:20px 20px;
+    padding:40px 20px;
+    
 }
 .child1{
     position: absolute;
@@ -30,14 +31,15 @@ body{
     padding:75px 55px;
 }
 .obesity{
-    font-size:100px;
+    font-size:150px;
+    line-height: 210px;
     color:red;
     padding-left: 170px;
     margin-bottom: 0px;
 }
 .childhood{
    margin-top: 0;
-   font-size:25px;
+   font-size:40px;
     color:whitesmoke;
     padding-left: 180px;
     line-height: 0px;
