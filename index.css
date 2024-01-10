@@ -1,0 +1,83 @@
+body{
+    background-color:dimgray;
+}
+.container{
+    padding:65px 30px;
+}
+
+.parent{
+    position: relative;
+    padding:40px 20px;
+    
+}
+.child1{
+    position: absolute;
+    padding:27px 25px;
+}
+.child2{
+    position: absolute;
+    padding:35px 33px;
+}
+.child3{
+    position: absolute;
+    padding:42px 40px;
+}
+.child4{
+    position: absolute;
+    padding:60px 85px;
+}
+.child5{
+    position: absolute;
+    padding:75px 55px;
+}
+.obesity{
+    font-size:150px;
+    line-height: 210px;
+    color:red;
+    padding-left: 170px;
+    margin-bottom: 0px;
+}
+.childhood{
+   margin-top: 0;
+   font-size:40px;
+    color:whitesmoke;
+    padding-left: 180px;
+    line-height: 0px;
+}
+.heading{
+    margin-left:130px;
+}
+.yellow{
+    background-color: orange;
+    text-align: center;
+    font-size: 20px;
+    padding:40px 40px;
+
+}
+.yellow3{
+    color: red;
+}
+.words{
+    color: whitesmoke;
+}
+.col-md-6{
+    margin: 0px;
+    padding:0px;
+}
+.skyblue{
+    background-color:rgb(56, 179, 227);
+    text-align: center;
+    font-size: 20px;
+    padding:40px 40px;
+}
+.red{
+    margin-top: 50px;
+    font-size: 20px;
+    
+
+}
+.skyblue1{
+    margin-top: 50px;
+    background-color:rgb(56, 179, 227);
+    padding:40px 40px;
+}
